@@ -1,0 +1,33 @@
+
+Pinging mrs09s06-in-f4.1e100.net [172.217.171.196] with 32 bytes of data:
+Reply from 172.217.171.196: bytes=32 time=42ms TTL=117
+Reply from 172.217.171.196: bytes=32 time=41ms TTL=117
+Reply from 172.217.171.196: bytes=32 time=42ms TTL=117
+Reply from 172.217.171.196: bytes=32 time=53ms TTL=117
+
+Ping statistics for 172.217.171.196:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 41ms, Maximum = 53ms, Average = 44ms
+
+Pinging edge-star-shv-01-hbe1.facebook.com [102.132.97.18] with 32 bytes of data:
+Reply from 102.132.97.18: bytes=32 time=11ms TTL=54
+Reply from 102.132.97.18: bytes=32 time=12ms TTL=54
+Reply from 102.132.97.18: bytes=32 time=12ms TTL=54
+Reply from 102.132.97.18: bytes=32 time=11ms TTL=54
+
+Ping statistics for 102.132.97.18:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 12ms, Average = 11ms
+
+Pinging a-0010.a-msedge.net [204.79.197.212] with 32 bytes of data:
+Reply from 204.79.197.212: bytes=32 time=12ms TTL=120
+Reply from 204.79.197.212: bytes=32 time=12ms TTL=120
+Reply from 204.79.197.212: bytes=32 time=15ms TTL=120
+Reply from 204.79.197.212: bytes=32 time=14ms TTL=120
+
+Ping statistics for 204.79.197.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 15ms, Average = 13ms
